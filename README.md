@@ -1,5 +1,5 @@
 # LunarLander Versión final
-Desarrollado por Julián Maestre
+<b><h1>Desarrollado por Julián Maestre</h1></b>
 
 <p>La web esta desarrollada un tres partes:</p>
   <p>Un HTML principal --> index.html</p>
