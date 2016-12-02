@@ -7,13 +7,13 @@ Desarrollado por Julián Maestre
   <p>Un HTML para explicar el funcionamiento del videojuego --> help.html</p>
 <p>Además de dos archivos CSS, uno correspondiente a la versión de escritorio y otro para l aversión móvil.</p>
 
-<b>index.html</b>
+<p><b>index.html</b></p>
 Página dividida en tres "div", cada una de ellas con un tamaño del 33.3% del total de la pantalla.
 
-<b>about.html</b>
+<p><b>about.html</b></p>
 Página donde se encuentra el "Acerca de..." y desde la cual tambien podemos acceder al juego o a los controles.
 
-<b>help.html</b>
+<p><b>help.html</b></p>
 <p>Página donde se encuentran los controles para el funcionamiento del juego.</p>
 <p>También podemos acceder desde aqui al juego o al "Acerca de..."</p>
 
