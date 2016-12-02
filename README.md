@@ -24,7 +24,7 @@ Página donde se encuentra el "Acerca de..." y desde la cual tambien podemos acc
 <p>El fondo de la superficie de la luna si se ha tenido que cambiar, por los motivos ya mencionados. El nuevo fondo es muy similar al original pero en una buena resolución y optimización, para que se vea bien en cualquier dispositivo</p>
 <p>Por último, he tenido que crear una imagen para el fuego que se genera para propulsar el cohete, porque no disponía de esa imagen</p>
 
-<b>Responsive</b>
+<p><b>Responsive</b></p>
 Todas las imágenes se adaptarán al tamaño de la pantalla del dispositivo.
 
 # MENU
